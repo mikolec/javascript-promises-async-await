@@ -23,10 +23,10 @@
   "devDependencies": {
     "acorn": "^7.1.1",
     "chai": "^4.2.0",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.1",
     "jsdom": "^11.12.0",
     "minimist": ">=1.2.2",
-    "mocha": "^7.0.1",
+    "mocha": "^8.0.1",
     "npm-run-all": "^4.0.2",
     "parcel-bundler": "^1.12.4",
     "parcel-plugin-static-files-copy": "^2.3.1"
